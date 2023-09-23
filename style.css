@@ -204,6 +204,21 @@ li {
 .projekty h3 {
     color: magenta;
     font-weight: 300;
+    padding-top: 20px;
+
+}
+
+.projekty p {
+    padding: 0 0 0 20px;
+    margin:0;
+}
+
+
+
+.fotogalerie {
+    width: 48%;
+    border-radius: 10px;
+    margin: 5px;
 }
 
 
